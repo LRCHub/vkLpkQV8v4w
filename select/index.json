@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Rich Man",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-11T05:31:06.065237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rich Man",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/01_Rich_Man_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Tinker_Tailor_Soldier_Sailor_Rich_Man_Poor_Man_Beggar_Man_Thief_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Never Wanted A Rich Man",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/03_I_Never_Wanted_A_Rich_Man_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby You're A Rich Man",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Baby_You're_A_Rich_Man_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby You're A Rich Man",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Baby_You're_A_Rich_Man_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rich Man",
+      "artist": "Ghostland Observatory",
+      "has_synced": false,
+      "path": "select/06_Rich_Man_Ghostland_Observatory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Parable of the Rich Man",
+      "artist": "GoldLink feat. April George",
+      "has_synced": true,
+      "path": "select/07_The_Parable_of_the_Rich_Man_GoldLink_feat._April_George.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Parable of the Rich Man",
+      "artist": "GoldLink",
+      "has_synced": true,
+      "path": "select/08_The_Parable_of_the_Rich_Man_GoldLink.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dancing With a Rich Man",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/09_Dancing_With_a_Rich_Man_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rich Man",
+      "artist": "Vampire Weekend",
+      "has_synced": true,
+      "path": "select/10_Rich_Man_Vampire_Weekend.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Thief",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Tinker_Tailor_Soldier_Sailor_Rich_Man_Poor_Man_Beggar_Thief_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rich Man Poor Man",
+      "artist": "The Gladiators",
+      "has_synced": true,
+      "path": "select/12_Rich_Man_Poor_Man_The_Gladiators.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby You're a Rich Man",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Baby_You're_a_Rich_Man_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby You'rea Rich Man",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Baby_You'rea_Rich_Man_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rich Man",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Rich_Man_aespa.txt"
+    }
+  ]
+}
